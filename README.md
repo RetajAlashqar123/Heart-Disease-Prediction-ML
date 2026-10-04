@@ -63,6 +63,9 @@ This project was completed collaboratively as part of a university Machine Learn
 - Sara Saeed Alghamdi
 - Retaj Khaled Alashqar
 
+
 ##  Dataset
 
-Heart Failure Prediction Dataset by Federico Soriano, available on Kaggle.
+The dataset used in this project is available on Kaggle:
+
+[Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
